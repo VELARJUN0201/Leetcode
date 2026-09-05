@@ -6,6 +6,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/VELARJUN0201/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/VELARJUN0201/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
