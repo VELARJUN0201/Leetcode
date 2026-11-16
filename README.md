@@ -30,6 +30,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VELARJUN0201/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VELARJUN0201/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/VELARJUN0201/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
