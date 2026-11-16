@@ -26,6 +26,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VELARJUN0201/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [1929-concatenation-of-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VELARJUN0201/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
