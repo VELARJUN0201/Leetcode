@@ -41,6 +41,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0013-roman-to-integer](https://github.com/VELARJUN0201/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/VELARJUN0201/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VELARJUN0201/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +80,5 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
