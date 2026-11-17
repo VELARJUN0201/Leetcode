@@ -30,6 +30,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VELARJUN0201/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VELARJUN0201/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VELARJUN0201/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -39,6 +40,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0001-two-sum](https://github.com/VELARJUN0201/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/VELARJUN0201/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +74,8 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VELARJUN0201/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
