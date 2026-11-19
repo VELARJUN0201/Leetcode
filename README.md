@@ -35,6 +35,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VELARJUN0201/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VELARJUN0201/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -45,6 +46,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,8 +91,13 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0015-3sum](https://github.com/VELARJUN0201/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VELARJUN0201/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
