@@ -62,6 +62,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/VELARJUN0201/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/VELARJUN0201/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VELARJUN0201/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## String Matching
@@ -109,4 +110,12 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VELARJUN0201/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
