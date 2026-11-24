@@ -18,6 +18,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/VELARJUN0201/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -149,4 +150,8 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
