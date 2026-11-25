@@ -35,6 +35,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VELARJUN0201/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VELARJUN0201/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -117,6 +118,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
