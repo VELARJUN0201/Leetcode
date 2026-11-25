@@ -8,6 +8,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/VELARJUN0201/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/VELARJUN0201/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0509-fibonacci-number](https://github.com/VELARJUN0201/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0014-longest-common-prefix](https://github.com/VELARJUN0201/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/VELARJUN0201/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0066-plus-one](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VELARJUN0201/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VELARJUN0201/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
