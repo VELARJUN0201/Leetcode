@@ -55,6 +55,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0001-two-sum](https://github.com/VELARJUN0201/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/VELARJUN0201/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/VELARJUN0201/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/VELARJUN0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -67,6 +68,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0011-container-with-most-water](https://github.com/VELARJUN0201/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VELARJUN0201/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VELARJUN0201/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0141-linked-list-cycle](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -163,6 +165,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -178,4 +181,8 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
