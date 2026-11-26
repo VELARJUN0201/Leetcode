@@ -135,6 +135,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -187,4 +188,12 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
