@@ -46,6 +46,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0414-third-maximum-number](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VELARJUN0201/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VELARJUN0201/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -61,6 +62,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0242-valid-anagram](https://github.com/VELARJUN0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VELARJUN0201/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
@@ -137,6 +139,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0020-valid-parentheses](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +199,8 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
