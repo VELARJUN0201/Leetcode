@@ -52,6 +52,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VELARJUN0201/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VELARJUN0201/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 | [0414-third-maximum-number](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/VELARJUN0201/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VELARJUN0201/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
