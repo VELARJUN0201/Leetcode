@@ -6,6 +6,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/VELARJUN0201/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/VELARJUN0201/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -19,6 +20,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
@@ -170,6 +172,7 @@ i am stating to learn DSA and i intend to solve problems based on the topics i l
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/VELARJUN0201/Leetcode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
